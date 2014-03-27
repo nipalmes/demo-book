@@ -41,7 +41,7 @@
 <item id="TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" href="../resources/TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" media-type="image/jpeg"/>
 <item id="Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" href="../resources/Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" media-type="image/jpeg"/>
 
-  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/><item href="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" id="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" media-type="application/xhtml+xml"/></manifest>
+  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/><item href="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" id="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" media-type="application/xhtml+xml"/><item href="mdulo-1-29e2ccac-0104-431a-a570-0c81edcfb53c.html" id="mdulo-1-29e2ccac-0104-431a-a570-0c81edcfb53c.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine>
 	<itemref idref="chapter-10"/>
 	<itemref idref="chapter-11"/>

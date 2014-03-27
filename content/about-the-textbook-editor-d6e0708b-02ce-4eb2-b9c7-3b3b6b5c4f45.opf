@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>About the Textbook Editor</dc:title>
+  </metadata>
+  <manifest>
+  <item href="about-the-textbook-editor-26e3e2b5-1fa2-4d26-84c9-641015f4850a-nav.html" id="about-the-textbook-editor-26e3e2b5-1fa2-4d26-84c9-641015f4850a-nav.html" media-type="application/xhtml+xml" properties="nav"/>
+  
+  <item href="copy-of-introduction-to-this-editor-and-project-ac4e94f1-be8a-4d5d-82d0-81b6ab3f87c8" id="copy-of-introduction-to-this-editor-and-project-ac4e94f1-be8a-4d5d-82d0-81b6ab3f87c8" media-type="application/xhtml+xml" properties="mathml"/>
+ 
+  <item href="copy-of-editor-missing-when-window-small-fc6236b6-731f-4295-a46e-6eab66d2eeef" id="copy-of-editor-missing-when-window-small-fc6236b6-731f-4295-a46e-6eab66d2eeef" media-type="application/xhtml+xml" properties="mathml"/>
+ 
+  <item href="../resources/8df8be69409384f976b010dc067c43b67443fc9e.png" id="../resources/8df8be69409384f976b010dc067c43b67443fc9e.png" media-type="image/png"/>
+  <item href="../resources/ae924e497386cad15bb73fd2249f7ef101feb7e9.png" id="../resources/ae924e497386cad15bb73fd2249f7ef101feb7e9.png" media-type="image/png"/>
+ 
+  <item href="information-for-software-developers-d15475ab-5acd-4a3c-b499-941c7538d1c2.html" id="information-for-software-developers-d15475ab-5acd-4a3c-b499-941c7538d1c2.html" media-type="application/xhtml+xml" properties="mathml"/>
+  <item href="self-guided-tour-c3edd141-2ccb-430e-b13e-1656f12a0b2a.html" id="self-guided-tour-c3edd141-2ccb-430e-b13e-1656f12a0b2a.html" media-type="application/xhtml+xml" properties="mathml"/>
+
+  <item href="untitled-3c11a014-76b8-4bf7-84ab-5331a6e13443.html" id="untitled-3c11a014-76b8-4bf7-84ab-5331a6e13443.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="mdulo-1-29e2ccac-0104-431a-a570-0c81edcfb53c.html" id="mdulo-1-29e2ccac-0104-431a-a570-0c81edcfb53c.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" id="prueba-1-editor-3ee98ccc-fbc2-4279-a539-fba2c4113c42.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="copy-of-introduction-to-this-editor-and-project-ac4e94f1-be8a-4d5d-82d0-81b6ab3f87c8"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="self-guided-tour-c3edd141-2ccb-430e-b13e-1656f12a0b2a.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="information-for-software-developers-d15475ab-5acd-4a3c-b499-941c7538d1c2.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="copy-of-editor-missing-when-window-small-fc6236b6-731f-4295-a46e-6eab66d2eeef"></itemref></spine>
+</package>
